@@ -17,5 +17,5 @@ Soy estudiante de Ingeniería de Sistemas y Telecomunicaciones, próximo en grad
 
 ## Contacto 📲
 
-[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loaizamateo)](https://twitter.com/loaizamateo) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateo-loaiza-rios/)](https://www.linkedin.com/in/mateo-loaiza-rios/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateoloaiza1227@gmail.com)](mailto:mateoloaiza1227@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@loaizamateo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loaizamateo)](https://twitter.com/loaizamateo) [![Linkedin Badge](https://img.shields.io/badge/-loaizamateo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateo-loaiza-rios/)](https://www.linkedin.com/in/mateo-loaiza-rios/)
+[![Gmail Badge](https://img.shields.io/badge/-mateoloaiza1227@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateoloaiza1227@gmail.com)](mailto:mateoloaiza1227@gmail.com)
