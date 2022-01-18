@@ -2,7 +2,7 @@
 
 ## Hola 👋
 
-Ingeniero de Sistemas y Telecomunicaciones apasionado por todo el mundo de la tecnología y la programación. Cuento con 5 años de experiencia en el gran mundo de la programación, en tecnologías de la industria como Node.JS, Laravel, Ionic, Angular y AWS.
+Ingeniero de Sistemas y Telecomunicaciones apasionado por todo el mundo de la tecnología y la programación. Cuento con 6 años de experiencia en el gran mundo de la programación, en tecnologías de la industria como Node.JS, Laravel, Ionic, Angular y AWS.
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
