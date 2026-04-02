@@ -13,7 +13,7 @@
 
 <br/>
 
-\`\`\`typescript
+```typescript
 const mateo = {
   role:      "Senior Software Engineer @ EPAM Systems",
   location:  "Manizales, Colombia 🇨🇴",
@@ -21,7 +21,7 @@ const mateo = {
   building:  "software que escala, que perdura, con impacto.",
   available: true // → proyectos freelance & consultoría cloud
 }
-\`\`\`
+```
 
 ---
 
