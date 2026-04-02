@@ -113,7 +113,7 @@ const mateo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaizamateo&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=06b6d4&text_color=94a3b8&count_private=true&bg_color=0d1220"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loaizamateo&theme=2077"/>
   &nbsp;
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loaizamateo&theme=2077"/>
 </div>
