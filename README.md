@@ -13,7 +13,7 @@
 
 <br/>
 
-```typescript
+\`\`\`typescript
 const mateo = {
   role:      "Senior Software Engineer @ EPAM Systems",
   location:  "Manizales, Colombia 🇨🇴",
@@ -21,7 +21,7 @@ const mateo = {
   building:  "software que escala, que perdura, con impacto.",
   available: true // → proyectos freelance & consultoría cloud
 }
-```
+\`\`\`
 
 ---
 
@@ -31,13 +31,18 @@ const mateo = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3b82f6)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=f1f5f9)
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=06b6d4)
+![Angular](https://img.shields.io/badge/Angular-0f172a?style=flat-square&logo=angular&logoColor=ec4899)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=10b981)
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=ec4899)
 ![Fastify](https://img.shields.io/badge/Fastify-0f172a?style=flat-square&logo=fastify&logoColor=f1f5f9)
+![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=f87171)
+
+**Bases de datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=60a5fa)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=f59e0b)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=10b981)
 
 **Cloud & DevOps**
@@ -45,6 +50,11 @@ const mateo = {
 ![Serverless](https://img.shields.io/badge/Serverless-0f172a?style=flat-square&logo=serverless&logoColor=ec4899)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=3b82f6)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=6366f1)
+
+**🤖 IA & Dev Tools**
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0f172a?style=flat-square&logo=github&logoColor=f1f5f9)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0f172a?style=flat-square&logo=anthropic&logoColor=d97706)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0f172a?style=flat-square&logo=openai&logoColor=06b6d4)
 
 ---
 
@@ -103,12 +113,13 @@ const mateo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaizamateo&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=06b6d4&text_color=94a3b8&count_private=true&bg_color=0d1220"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaizamateo&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0d1220&langs_count=6"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaizamateo&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=06b6d4&text_color=94a3b8&count_private=true&bg_color=0d1220&cache_seconds=3600"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaizamateo&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0d1220&langs_count=6&cache_seconds=3600"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=loaizamateo&theme=transparent&hide_border=true&ring=3b82f6&fire=06b6d4&currStreakLabel=94a3b8&sideLabels=64748b&dates=475569&background=0d1220&stroke=1e2d45"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loaizamateo&theme=transparent&hide_border=true&ring=3b82f6&fire=06b6d4&currStreakLabel=94a3b8&sideLabels=64748b&dates=475569&background=0d1220&stroke=1e2d45"/>
 </div>
 
 ---
